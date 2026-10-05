@@ -1,0 +1,6 @@
+{
+  "name": "Desert Storm: Legacy",
+  "description": "3D action & high-speed vehicle chase game. Infiltrate enemy hangars avoiding radars, race across desert dunes with nitro boosts to destroy convoys, and defuse the HQ bomb under 60 seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
